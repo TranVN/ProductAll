@@ -1,0 +1,12 @@
+Source: https://www.youtube.com/watch?v=bHRe5XNP5l8
+Icon: https://unpkg.com/browse/@heroicons/react@2.0.16/24/outline/
+
+- Source : 
+   + PHP  8.1.2 Cli
+   + Laravel 10.0.4
+   + Node : 19.7
+   
+- Extention: Tailwind CSS Extension Pack(vs extention)
+- Run:
+  + cd DienMay
+  + npm run dev
