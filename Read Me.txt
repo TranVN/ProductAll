@@ -9,4 +9,5 @@ Icon: https://unpkg.com/browse/@heroicons/react@2.0.16/24/outline/
 - Extention: Tailwind CSS Extension Pack(vs extention)
 - Run:
   + cd DienMay
+  + npm create vite@latest
   + npm run dev
